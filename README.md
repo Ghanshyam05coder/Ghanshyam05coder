@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif)]
+[![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)]
 <h1 align="center">Hi 👋, I'm Ghanshyam Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
