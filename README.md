@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fzeduhow%2Fthe-free-hack-of-coding-50a23146c127&psig=AOvVaw2cCNaI6Zt6A2U--FBKWaku&ust=1677735870247000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCCssa4u_0CFQAAAAAdAAAAABAD.gif)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/0*yVqaoB4N64ZrBXWo.gif)]
 <h1 align="center">Hi 👋, I'm Ghanshyam Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
