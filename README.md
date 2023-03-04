@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/0*yVqaoB4N64ZrBXWo.gif)]
+[![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)]
 <h1 align="center">Hi 👋, I'm Ghanshyam Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
