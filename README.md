@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **computer science**
 
-- 📫 How to reach me **ghanshyamsharma7050@gmial.com**
+- 📫 How to reach me **ghanshyamsharma7050@gmail.com**
 
 - ⚡ Fun fact **I think, I am funny.**
 
